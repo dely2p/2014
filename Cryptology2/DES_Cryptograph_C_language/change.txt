@@ -1,7 +1,0 @@
-ip	->	InitialPermutationTable
-ip_1	->	FinalPermutationTable
-PC_1	->	ParityDropTable
-PC_2	->	CompressionPBoxTable
-E	->	ExpansionPermutationTable
-P	->	StraightPermutationTable
-s_box	->	S
