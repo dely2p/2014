@@ -6,3 +6,7 @@
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.idb filter=lfs diff=lfs merge=lfs -text
 *.jar filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
+*.dex filter=lfs diff=lfs merge=lfs -text
+*.ap_ filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
